@@ -1,0 +1,18 @@
+h1{
+    color: rgb(224, 198, 165);
+    background-color: rgb(58, 58, 58);
+    font-family : 'Comic Sans ms';
+    padding-left: 10px;
+}
+
+body{
+    background-color: bisque;
+}
+
+.item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+img{
+    border: solid black;
+}
